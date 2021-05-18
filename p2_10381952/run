@@ -1,0 +1,9 @@
+clear
+echo
+echo
+echo
+echo
+echo
+make clean
+make
+./p2_exec 2 10
